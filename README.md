@@ -4,16 +4,21 @@
 
  
 
-#### 😄 I have wide knowledge some programming languages and technologies [Backend & Frontend]
+#### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
  - **Backend**:
-	 - Javascript: NodeJs, ExpressJs & NextJs. And a plus: DiscordJs.
+	 - Javascript/TypeScript: NodeJs, ExpressJs & NextJs. And a plus: DiscordJs.
 	 - Python: Flask & basic Django.
-	 - C#: .NET technologies, Entity Framework, Identity Server.
+	 - C#: ASP.NET, Entity Framework, Identity Server.
 	 - Databases: Postgresql, MongoDB, MariaDB, MySQL, SQL Server.
+	 - GraphQL: Apollo Server, Prisma ORM, Apollo Client for React
  - **Frontend**:
 	 - HTML, CSS, SASS, Bootstrap.
-	 - Javascript: React.Js, Angular, JQuery.
- - 🤔 I have basic knowledge in AWS and Docker.
+	 - Javascript/TypeScript: React.Js, Angular, JQuery.
+ - **Others 🤔**:
+ 	- Python: Pandas
+	- Basic Java, AWS & Docker
+	- Matlab, Arduino
+	- KiCad for PCB design
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
 
