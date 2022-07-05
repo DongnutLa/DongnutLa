@@ -17,7 +17,7 @@
  - **Others 🤔**:
  	- Python: Pandas
 	- Basic Java, AWS & Docker
-	- Matlab, Arduino
+	- Matlab, Arduino, uPython, Raspberry PI
 	- KiCad for PCB design
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
