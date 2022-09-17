@@ -22,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
 
-#### 🔭 I am currently working on .NET & Angular,
+#### 🔭 I am currently working on NestJS & ReactJS technologies,
 #### 🌱 and I am currently learning more about NodeJs, React.Js and starting learning GOLang
 
 #### 📫 You can find more about me via:
