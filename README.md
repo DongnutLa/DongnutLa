@@ -9,12 +9,13 @@
 	 - Javascript/TypeScript: NodeJs, ExpressJs & NextJs. And a plus: DiscordJs.
 	 - Python: Flask & basic Django.
 	 - C#: ASP.NET, Entity Framework, Identity Server.
-	 - Databases: Postgresql, MongoDB, MariaDB, MySQL, SQL Server.
+	 - Databases: Postgresql, MongoDB, Firestore, MariaDB, MySQL, SQL Server.
 	 - GraphQL: Apollo Server, Prisma ORM, Apollo Client for React
  - **Frontend**:
-	 - HTML, CSS, SASS, Bootstrap.
+	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
 	 - Javascript/TypeScript: React.Js, Angular, JQuery.
  - **Others 🤔**:
+ 	- gRPC, Pub/Sub, GCloud, ElasticSearch, Mongo AtlasSearch
  	- Python: Pandas
 	- Basic Java, AWS & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
