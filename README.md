@@ -16,7 +16,7 @@
 	 - Javascript/TypeScript: React.Js, Angular, JQuery.
 	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
  - **Others 🤔**:
- 	- gRPC, Pub/Sub, GCloud, ElasticSearch, Mongo, AtlasSearch, Redis
+ 	- gRPC (NodeJS & GO), Pub/Sub, GCloud, ElasticSearch, Mongo, AtlasSearch, Redis
  	- Python: Pandas
 	- Basic Java, Kotlin, Swift, AWS & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
 
-#### 🔭 I am currently working on NestJS & ReactJS technologies, with gRPC, Pub/Sub
+#### 🔭 I am currently working on NestJS & ReactJS technologies, with gRPC, Pub/Sub and more!
 #### 🌱 I’m currently learning Docker and more about GO
 
 #### 📫 You can find more about me via:
