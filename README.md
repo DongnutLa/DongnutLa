@@ -16,7 +16,7 @@
 	 - Javascript/TypeScript: React.Js, Angular, JQuery.
 	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
  - **Others 🤔**:
- 	- gRPC, Pub/Sub, GCloud, ElasticSearch, Mongo, AtlasSearch
+ 	- gRPC, Pub/Sub, GCloud, ElasticSearch, Mongo, AtlasSearch, Redis
  	- Python: Pandas
 	- Basic Java, Kotlin, Swift, AWS & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
