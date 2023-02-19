@@ -7,7 +7,7 @@
 #### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
  - **Backend**:
 	 - Javascript/TypeScript: NodeJs, ExpressJs, NestJS, NextJS.
-	 - GO: Echo
+	 - GO: Echo, gRPC, protobuf, Concurrency.
 	 - Python: Flask & basic Django.
 	 - C#: ASP.NET, Entity Framework, Identity Server.
 	 - Databases: Postgresql, MongoDB, Firestore, MariaDB, MySQL, SQL Server.
