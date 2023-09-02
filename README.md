@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-### I am Luis Hernández, an electronic engineer and software developer from Colombia, with 1+ year of experience in software development.
+### I am Luis Hernández, an electronic engineer and software developer from Colombia, with almost 2 years of experience in software development.
 
  
 
