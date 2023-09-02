@@ -7,16 +7,16 @@
 #### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
  - **Backend**:
 	 - Javascript/TypeScript: NodeJs, ExpressJs, NestJS, NextJS.
-	 - GO: Echo, gRPC, protobuf, Concurrency.
+	 - GO: Echo, Fiber, gRPC, protobuf, Concurrency.
 	 - Python: Flask & basic Django.
 	 - C#: ASP.NET, Entity Framework, Identity Server.
-	 - Databases: Postgresql, MongoDB, Firestore, MariaDB, MySQL, SQL Server.
+	 - Databases: MongoDB, Firestore, Bigquery, Postgresql, MariaDB, MySQL, SQL Server.
 	 - GraphQL: Apollo Server, Prisma ORM, Apollo Client for React
  - **Frontend**:
-	 - Javascript/TypeScript: React.Js, Angular, JQuery.
+	 - Javascript/TypeScript: React.Js, Qwik, Angular, JQuery.
 	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
  - **Others 🤔**:
- 	- gRPC (NodeJS & GO), Pub/Sub, GCloud, ElasticSearch, Mongo, AtlasSearch, Redis
+ 	- gRPC (NodeJS & GO), Pub/Sub, GCloud, ElasticSearch, Mongo & Aggregations, AtlasSearch, Redis
  	- Python: Pandas
 	- Basic Java, Kotlin, Swift, AWS & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
@@ -24,8 +24,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
 
-#### 🔭 I am currently working on NestJS & ReactJS technologies, with gRPC, Pub/Sub and more!
-#### 🌱 I’m currently learning Docker and more about GO
+#### 🔭 I am currently working on Golang, NestJS & ReactJS technologies, with gRPC, Pub/Sub and more!
+#### 🌱 I’m currently learning Docker, Flutter, RxJs, and more
 
 #### 📫 You can find more about me via:
 - LinkedIn: https://www.linkedin.com/in/luishrndz/
