@@ -7,18 +7,20 @@
 #### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
  - **Backend**:
 	 - Javascript/TypeScript: NodeJs, ExpressJs, NestJS, NextJS.
-	 - GO: Echo, Fiber, gRPC, protobuf, Concurrency.
-	 - Python: Flask & basic Django.
+	 - GO: Echo, Fiber, gRPC, Protobuf, Concurrency, Unit tests
+	 - Python: Flask & FastApi.
 	 - C#: ASP.NET, Entity Framework, Identity Server.
-	 - Databases: MongoDB, Firestore, Bigquery, Postgresql, MariaDB, MySQL, SQL Server.
-	 - GraphQL: Apollo Server, Prisma ORM, Apollo Client for React
+	 - Databases: MongoDB, Firestore, Bigquery, DynamoDB, Postgresql, MySQL, SQL Server.
  - **Frontend**:
 	 - Javascript/TypeScript: React.Js, Qwik, Angular, JQuery.
 	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
  - **Others 🤔**:
  	- gRPC (NodeJS & GO), Pub/Sub, GCloud, ElasticSearch, Mongo & Aggregations, AtlasSearch, Redis
- 	- Python: Pandas
-	- Basic Java, Kotlin, Swift, AWS & Docker
+        - AWS (Lambda, S3, ApiGateway, EC2, CloudWatch, SNS/SQS, AudioTranscribe, Parameters, etc)
+        - Design Patterns (Repository, Proxy, Builder, Container/View (React))
+        - Event-Driven Architecture (Internal / External)
+        - GCP (Cloud Functions, Bigquery)
+	- Basic Java, Kotlin, Swift & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
 	- KiCad for PCB design
 
@@ -29,12 +31,13 @@
 
 #### 📫 You can find more about me via:
 - LinkedIn: https://www.linkedin.com/in/luishrndz/
-- Email: luahernandezdu@unal.edu.co
+- Email: luisthered09@gmail.com
 
 #### 💬 Spoken Languages:
 - Spanish (Native)
-- English (Intermediate)
+- English (Intermediate / Conversational)
 - Korean (Basic)
+- Portuguese (Basic)
 
 #### ⚡ Fun fact:
 - I like K-Pop and some of my projects are inspired and based on it.
