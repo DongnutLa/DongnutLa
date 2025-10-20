@@ -5,29 +5,18 @@
  
 
 #### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
- - **Backend**:
-	 - Javascript/TypeScript: NodeJs, ExpressJs, NestJS, NextJS.
-	 - GO: Echo, Fiber, gRPC, Protobuf, Concurrency, Unit tests
-	 - Python: Flask & FastApi.
-	 - C#: ASP.NET, Entity Framework, Identity Server.
-	 - Databases: MongoDB, Firestore, Bigquery, DynamoDB, Postgresql, MySQL, SQL Server.
- - **Frontend**:
-	 - Javascript/TypeScript: React.Js, Qwik, Angular, JQuery.
-	 - HTML, CSS, SASS, Bootstrap, MaterialUI, antDesign.
- - **Others 🤔**:
- 	- gRPC (NodeJS & GO), Pub/Sub, GCloud, ElasticSearch, Mongo & Aggregations, AtlasSearch, Redis
-        - AWS (Lambda, S3, ApiGateway, EC2, CloudWatch, SNS/SQS, AudioTranscribe, Parameters, etc)
-        - Design Patterns (Repository, Proxy, Builder, Container/View (React))
-        - Event-Driven Architecture (Internal / External)
-        - GCP (Cloud Functions, Bigquery)
+ - Desarrollo Backend: REST APIs, microservicios, gRPC, concurrencia y paralelismo con Go.
+ - Frontend moderno: React, Next.js, Redux, Zustand, React Query, HTML, CSS y SEO.
+ - Base de datos y almacenamiento: MongoDB, SQL, Firestore, Redis, ElasticSearch.
+ - Infraestructura y DevOps: AWS (Lambda, ECS, S3, SNS/SQS), Docker.
+ - Pruebas: Unitarias e integración, CI/CD básico.
+ - Diseño de arquitecturas: DDD (hexagonal, cebolla), SOLID y patrones de diseño.
+ - Tecnologías adicionales: Clojure, Python (Flask), Angular, Qwik.
 	- Basic Java, Kotlin, Swift & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
 	- KiCad for PCB design
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongnutLa&theme=tokyonight)
-
-#### 🔭 I am currently working on Golang, NestJS & ReactJS technologies, with gRPC, Pub/Sub and more!
-#### 🌱 I’m currently learning Docker, Flutter, RxJs, and more
 
 #### 📫 You can find more about me via:
 - LinkedIn: https://www.linkedin.com/in/luishrndz/
@@ -38,21 +27,3 @@
 - English (Intermediate / Conversational)
 - Korean (Basic)
 - Portuguese (Basic)
-
-#### ⚡ Fun fact:
-- I like K-Pop and some of my projects are inspired and based on it.
-
-<!--
-**DongnutLa/DongnutLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
