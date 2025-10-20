@@ -5,13 +5,14 @@
  
 
 #### 😄 I have wide knowledge in some programming languages and technologies [Backend & Frontend]
- - Desarrollo Backend: REST APIs, microservicios, gRPC, concurrencia y paralelismo con Go.
- - Frontend moderno: React, Next.js, Redux, Zustand, React Query, HTML, CSS y SEO.
- - Base de datos y almacenamiento: MongoDB, SQL, Firestore, Redis, ElasticSearch.
- - Infraestructura y DevOps: AWS (Lambda, ECS, S3, SNS/SQS), Docker.
- - Pruebas: Unitarias e integración, CI/CD básico.
- - Diseño de arquitecturas: DDD (hexagonal, cebolla), SOLID y patrones de diseño.
- - Tecnologías adicionales: Clojure, Python (Flask), Angular, Qwik.
+ - Backend Development: REST APIs, microservices, gRPC, concurrency and paralelism.
+    - GO, NodeJS, Clojure, Python, Kotlin
+ - Modern Frontend: React, Next.js, Redux, Zustand, React Query, HTML, CSS y SEO.
+ - Databases: MongoDB, SQL, Firestore, Redis, ElasticSearch, DynamoDB, Datomic.
+ - Infraestructure y DevOps: AWS (Lambda, ECS, S3, SNS/SQS), Docker.
+ - Tests: Unit and Integration tests, basic CI/CD.
+ - Clean Architectures: DDD (hexagonal, cebolla), SOLID and design patterns.
+ - And more: Django, Flask, Angular, Qwik, VueJS
 	- Basic Java, Kotlin, Swift & Docker
 	- Matlab, Arduino, uPython, Raspberry PI
 	- KiCad for PCB design
